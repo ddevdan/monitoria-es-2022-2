@@ -13,10 +13,10 @@
 |       AULA         |DATA                          |HORA | MONITORES |
 |----------------|-------------------------------|-----------------------------|----------|
 |**Onboard + Warm up Javascript**| 30/11/2022 | 17:00 até 18:50pm   | Deborah, Kevin|
-|**Git** | 14/12/2022|17:00 até 18:50| Daniel, Deborah|
+|**Git** | 14/12/2022|17:00 até 18:50| [@ddevdan](https://github.com/ddevdan), Deborah|
 |**Backend** |30/01/2023 |19:00 até 20:30| Maria Paula, Sidney|
-|**Frontend** | 06/02/2023|19:00 até 20:30| Daniel, Deborah|
-|**Testes** | 27/02/2023|19:00 até 20:30| Daniel, Renata Farias|
+|**Frontend** | 06/02/2023|19:00 até 20:30| [@ddevdan](https://github.com/ddevdan), Deborah|
+|**Testes** | 27/02/2023|19:00 até 20:30| [@ddevdan](https://github.com/ddevdan), Renata Farias|
 | **Deploy**|06/03/2023 |19:00 até 20:30| Gilberto, Kevin Beltrão|
 
 
