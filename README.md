@@ -8,8 +8,8 @@
 
 </div>
 
-# :calendar: Cronograma
 
+## :calendar: Cronograma
 |       AULA         |DATA                          |HORA                        |
 |----------------|-------------------------------|-----------------------------|
 |**Onboard + Warm up Javascript**| 30/11/2022 | 17:00 até 18:50pm   |
@@ -20,5 +20,5 @@
 | **Deploy**|06/03/2023 |19:00 até 20:30
 
 
-# :fairy: Lista de alunos
+## :fairy: Lista de alunos
 - Substituir isso aqui por seu nome
