@@ -13,11 +13,11 @@
 | AULA                             | DATA       | HORA              | MONITORES                                                                                            |
 | -------------------------------- | ---------- | ----------------- | ---------------------------------------------------------------------------------------------------- |
 | **Onboard + Warm up Javascript** | 30/11/2022 | 17:00 até 18:50pm | [Deborah Espíndola](https://github.com/debespindola), [Kevin Beltrão](https://github.com/KevBeltrao) |
-| **Git**                          | 14/12/2022 | 17:00 até 18:50   | [@ddevdan](https://github.com/ddevdan), [Deborah Espíndola](https://github.com/debespindola)         |
-| **Backend**                      | 30/01/2023 | 19:00 até 20:30   | Maria Paula, [Sidney](https://github.com/silvercent011)                                              |
+| **Git**                          | 14/12/2022 | 17:00 até 18:50   | [Daniel Carvalho](https://github.com/ddevdan), [Deborah Espíndola](https://github.com/debespindola)  |
+| **Backend**                      | 30/01/2023 | 19:00 até 20:30   | [Maria Paula](https://github.com/PaulaPerazzo), [Sidney](https://github.com/silvercent011)           |
 | **Frontend**                     | 06/02/2023 | 19:00 até 20:30   | [Jean Grijp](https://github.com/JeanGrijp), [Víctor Sena](https://github.com/vsla)                   |
-| **Testes**                       | 27/02/2023 | 19:00 até 20:30   | [Víctor Sena](https://github.com/vsla), Renata Farias                                                |
-| **Deploy**                       | 06/03/2023 | 19:00 até 20:30   | Gilberto, [Kevin Beltrão](https://github.com/KevBeltrao)                                             |
+| **Testes**                       | 27/02/2023 | 19:00 até 20:30   | [Víctor Sena](https://github.com/vsla), [Renata Farias](https://github.com/xReee)                    |
+| **Deploy**                       | 06/03/2023 | 19:00 até 20:30   | [Gilberto](https://github.com/gilbertomoj) , [Kevin Beltrão](https://github.com/KevBeltrao)          |
 
 ## :fairy: Lista de estudantes
 
