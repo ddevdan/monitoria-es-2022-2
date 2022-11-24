@@ -8,17 +8,17 @@
 
 </div>
 
-
 ## :calendar: Cronograma
-|       AULA         |DATA                          |HORA | MONITORES |
-|----------------|-------------------------------|-----------------------------|----------|
-|**Onboard + Warm up Javascript**| 30/11/2022 | 17:00 até 18:50pm   | Deborah, Kevin|
-|**Git** | 14/12/2022|17:00 até 18:50| [@ddevdan](https://github.com/ddevdan), Deborah|
-|**Backend** |30/01/2023 |19:00 até 20:30| Maria Paula, Sidney|
-|**Frontend** | 06/02/2023|19:00 até 20:30| [@ddevdan](https://github.com/ddevdan), Deborah|
-|**Testes** | 27/02/2023|19:00 até 20:30| [@ddevdan](https://github.com/ddevdan), Renata Farias|
-| **Deploy**|06/03/2023 |19:00 até 20:30| Gilberto, Kevin Beltrão|
 
+| AULA                             | DATA       | HORA              | MONITORES                                                                                            |
+| -------------------------------- | ---------- | ----------------- | ---------------------------------------------------------------------------------------------------- |
+| **Onboard + Warm up Javascript** | 30/11/2022 | 17:00 até 18:50pm | [Deborah Espíndola](https://github.com/debespindola), [Kevin Beltrão](https://github.com/KevBeltrao) |
+| **Git**                          | 14/12/2022 | 17:00 até 18:50   | [@ddevdan](https://github.com/ddevdan), [Deborah Espíndola](https://github.com/debespindola)         |
+| **Backend**                      | 30/01/2023 | 19:00 até 20:30   | Maria Paula, [Sidney](https://github.com/silvercent011)                                              |
+| **Frontend**                     | 06/02/2023 | 19:00 até 20:30   | [Jean Grijp](https://github.com/JeanGrijp), [Víctor Sena](https://github.com/vsla)                   |
+| **Testes**                       | 27/02/2023 | 19:00 até 20:30   | [Víctor Sena](https://github.com/vsla), Renata Farias                                                |
+| **Deploy**                       | 06/03/2023 | 19:00 até 20:30   | Gilberto, [Kevin Beltrão](https://github.com/KevBeltrao)                                             |
 
 ## :fairy: Lista de estudantes
+
 - Substituir isso aqui por seu nome
