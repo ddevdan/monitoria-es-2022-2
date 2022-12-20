@@ -21,5 +21,5 @@
 
 ## :fairy: Lista de estudantes
 
-- Substituir isso aqui por seu nome
+- Luiz Phillip Pereira Barbosa
 - David Mateus
