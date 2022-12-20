@@ -21,4 +21,5 @@
 
 ## :fairy: Lista de estudantes
 
+- Luiz Phillip Pereira Barbosa
 - Isabelle Queiroz Gomes de Assis
