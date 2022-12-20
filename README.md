@@ -24,3 +24,4 @@
 - Luiz Phillip Pereira Barbosa
 - Isabelle Queiroz Gomes de Assis
 - David Mateus Leite
+- Paulo Vitor Alves de Oliveira
