@@ -23,4 +23,4 @@
 
 - Luiz Phillip Pereira Barbosa
 - Isabelle Queiroz Gomes de Assis
-- David Mateus
+- David Mateus Leite
