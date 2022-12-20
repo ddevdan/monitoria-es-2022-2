@@ -22,3 +22,4 @@
 ## :fairy: Lista de estudantes
 
 - Luiz Phillip Pereira Barbosa
+- Thiago Botelho Rodrigues
