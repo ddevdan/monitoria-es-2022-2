@@ -21,4 +21,4 @@
 
 ## :fairy: Lista de estudantes
 
-- Substituir isso aqui por seu nome
+- Isabelle Queiroz Gomes de Assis
