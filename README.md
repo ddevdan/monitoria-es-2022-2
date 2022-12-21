@@ -26,3 +26,4 @@
 - David Mateus Leite
 - Paulo Vitor Alves de Oliveira
 - Thiago Botelho
+- João Lucas Vieira dos Santos
