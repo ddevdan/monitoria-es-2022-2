@@ -30,3 +30,4 @@
 - Vinícius Marçal
 - João Lucas Vieira dos Santos
 - José Gabriel Santos Nascimento
+- Caio Buarque de Gusmao
