@@ -26,4 +26,5 @@
 - David Mateus Leite
 - Paulo Vitor Alves de Oliveira
 - Thiago Botelho
-- Vinícius Marçal Araújo
+- Rodrigo Medeiros Florencio Leal
+- Vinícius Marçal
