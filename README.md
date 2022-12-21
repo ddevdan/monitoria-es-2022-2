@@ -29,3 +29,4 @@
 - Rodrigo Medeiros Florencio Leal
 - Vinícius Marçal
 - João Lucas Vieira dos Santos
+- José Gabriel Santos Nascimento
