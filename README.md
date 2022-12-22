@@ -34,3 +34,4 @@
 - Wilson J. M. Freitas
 - Luis Felipe Mota
 - Ismael Benjamim da Silva Barros
+- Emmanuel De Luca Teixeira Da Silva
