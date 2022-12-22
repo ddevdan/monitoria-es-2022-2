@@ -32,3 +32,4 @@
 - José Gabriel Santos Nascimento
 - Caio Buarque de Gusmao
 - Wilson J. M. Freitas
+- Luis Felipe Mota
