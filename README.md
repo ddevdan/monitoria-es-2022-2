@@ -35,3 +35,4 @@
 - Luis Felipe Mota
 - Ismael Benjamim da Silva Barros
 - Emmanuel De Luca Teixeira Da Silva
+- Diego Henrique Vilaça Calixto
