@@ -36,3 +36,4 @@
 - Ismael Benjamim da Silva Barros
 - Emmanuel De Luca Teixeira Da Silva
 - Júlia Arnaud de Melo Fragoso
+- Gabriel Laroche Borba
