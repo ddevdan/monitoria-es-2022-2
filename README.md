@@ -37,3 +37,4 @@
 - Emmanuel De Luca Teixeira Da Silva
 - Júlia Arnaud de Melo Fragoso
 - Gabriel Laroche Borba
+- Bruno Silva Cordeiro
