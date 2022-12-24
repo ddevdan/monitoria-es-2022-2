@@ -26,6 +26,7 @@
 - David Mateus Leite
 - Paulo Vitor Alves de Oliveira
 - Thiago Botelho
+- Alexandre Vieira Leonardo
 - Rodrigo Medeiros Florencio Leal
 - Vinícius Marçal
 - João Lucas Vieira dos Santos
