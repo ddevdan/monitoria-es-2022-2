@@ -38,4 +38,5 @@
 - Júlia Arnaud de Melo Fragoso
 - Gabriel Laroche Borba
 - Alexandre Vieira Leonardo
+- Bruno Silva Cordeiro
 - Diego Henrique Vilaça Calixto
