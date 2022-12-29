@@ -21,4 +21,23 @@
 
 ## :fairy: Lista de estudantes
 
-- Substituir isso aqui por seu nome
+- Luiz Phillip Pereira Barbosa
+- Isabelle Queiroz Gomes de Assis
+- David Mateus Leite
+- Paulo Vitor Alves de Oliveira
+- Thiago Botelho
+- Rodrigo Medeiros Florencio Leal
+- Vinícius Marçal
+- João Lucas Vieira dos Santos
+- José Gabriel Santos Nascimento
+- Caio Buarque de Gusmao
+- Wilson J. M. Freitas
+- Luis Felipe Mota
+- Ismael Benjamim da Silva Barros
+- Emmanuel De Luca Teixeira Da Silva
+- Júlia Arnaud de Melo Fragoso
+- Gabriel Laroche Borba
+- Alexandre Vieira Leonardo
+- Bruno Silva Cordeiro
+- Diego Henrique Vilaça Calixto
+- Marco Antônio Andrade 
