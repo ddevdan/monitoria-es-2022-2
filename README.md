@@ -40,3 +40,4 @@
 - Alexandre Vieira Leonardo
 - Bruno Silva Cordeiro
 - Diego Henrique Vilaça Calixto
+- Marco Antônio Andrade 
