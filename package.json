@@ -1,0 +1,29 @@
+{
+  "name": "monitoria-es-2022-2",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "migrate": "prisma migrate dev --name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddevdan/monitoria-es-2022-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddevdan/monitoria-es-2022-2/issues"
+  },
+  "homepage": "https://github.com/ddevdan/monitoria-es-2022-2#readme",
+  "dependencies": {
+    "@prisma/client": "^4.9.0",
+    "next": "^13.1.6",
+    "prisma": "^4.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
